@@ -1,0 +1,1 @@
+/** *  */package abhi.utility;/** * @author abhisheksharma, dkrew * */public interface ISubtract {	public Integer Subtract(Integer a, Integer b);}

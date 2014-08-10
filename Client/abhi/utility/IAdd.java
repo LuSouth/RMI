@@ -1,0 +1,1 @@
+/** *  */package abhi.utility;/** * @author abhisheksharma, dkrew * */public interface IAdd {	public Integer Add(Integer x, Integer y);}

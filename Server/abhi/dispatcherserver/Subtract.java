@@ -1,0 +1,1 @@
+/** *  */package abhi.dispatcherserver;import abhi.utility.*;/** * @author abhisheksharma, dkrew * */public class Subtract implements ISubtract, IDistributedObject {	@Override	public Integer Subtract(Integer a, Integer b) {		// TODO Auto-generated method stub		return new Integer(a-b);	}	}

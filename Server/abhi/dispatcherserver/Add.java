@@ -1,0 +1,1 @@
+/** *  */package abhi.dispatcherserver;import abhi.utility.*;/** * @author abhisheksharma, dkrew * */public class Add implements IAdd, IDistributedObject {	@Override	public Integer Add(Integer x, Integer y) {		// TODO Auto-generated method stub		return new Integer(x+y);	}	}

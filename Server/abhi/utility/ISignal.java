@@ -1,0 +1,1 @@
+package abhi.utility;import java.io.Serializable;// This is just an interact so we could indicate the Serializable.public interface ISignal extends Serializable {}
